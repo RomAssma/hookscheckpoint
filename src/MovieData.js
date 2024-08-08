@@ -9,6 +9,9 @@ export const moviesdata = [
          description:"Dark Waters will make you angry. Mark Ruffalo stars in this true story from director Todd Haynes, known for more formally ambitious stuff but able to nail the old-fashioned outrage needed for this one",
          rating:4,
           type: "Drama",
+          trailer:"https://www.youtube.com/embed/RvAOuhyunhY?si=cN41Es84l9aWrvRo"
+          
+
         },
      { id:2,
             title:"The Long Game",
@@ -18,8 +21,7 @@ export const moviesdata = [
               rating:3,
               type:"Drama",
               description:"If you’re looking for an old-fashioned, effective sports drama, look no further than this modest adaptation of the book Mustang Miracle, about a Mexican-American golf group who became the Texas state champions in 1957",
-
-                
+         trailer:"https://www.youtube.com/embed/5TtmRpaStAs?si=5h5Q7VnhTbuG910W"                
             },
      { id:3,
                 title: "Hit Man",
@@ -28,8 +30,8 @@ export const moviesdata = [
                  seasons:"1 season",
                   rating:5,
                   type:"Comedy",
-                  description:"Future superstar Glen Powell co-wrote and stars in this comedic gem that reminds one that movies can still be made for adults,setting in motion an unpredictable, funny, riveting series of events"
-            
+                  description:"Future superstar Glen Powell co-wrote and stars in this comedic gem that reminds one that movies can still be made for adults,setting in motion an unpredictable, funny, riveting series of events",
+            trailer:"https://www.youtube.com/embed/0g4cJ4NE8HA?si=PtC-uXfRC51x6be_"
                     
                 },
     { id:4,
@@ -40,6 +42,6 @@ export const moviesdata = [
                       rating:4,
                       type:"Horror",
                       description:"Jennifer Kent’s directorial debut centers on a mother (Essie Davis) who struggles to raise her problem child alone after the death of her husband. Oh, and there’s also a real monster in the boy’s room.",
-
+                      trailer:"https://www.youtube.com/embed/k5WQZzDRVtw?si=f1qkbRpoaJD-X4M9",
                         
                     }];
